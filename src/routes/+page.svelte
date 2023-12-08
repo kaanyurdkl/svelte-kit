@@ -10,7 +10,7 @@
 </svelte:head>
 
 <section>
-	<h1>Hello world</h1>
+	<h1>This is the develop branch</h1>
 
 	<h2>
 		try editing <strong>src/routes/+page.svelte</strong>
